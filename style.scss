@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: $black;
 }
 
 p {
@@ -116,14 +116,15 @@ img {
 }
 
 .date {
-  font-style: italic;
-  color: $gray;
+  font-style: Tentram;
+  color: $black;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
   background: $lightGray;
+	
 }
 ::selection {
   color: $black;
@@ -194,7 +195,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $Tentram;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -213,7 +214,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $Tentram;
   font-size: 18px;
 
   @include mobile {

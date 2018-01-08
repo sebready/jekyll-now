@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $ http://cdn.cnn.com/cnnnext/dam/assets/170407220916-04-iconic-mountains-matterhorn-restricted-super-169.jpg;
+	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -61,7 +61,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $black;
+  color: $gray;
 }
 
 p {
@@ -116,15 +116,14 @@ img {
 }
 
 .date {
-  font-style: Tentram;
-  color: $black;
+  font-style: italic;
+  color: $gray;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
   background: $lightGray;
-	
 }
 ::selection {
   color: $black;
@@ -195,7 +194,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $Tentram;
+  font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -214,7 +213,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $Tentram;
+  font-family: $helveticaNeue;
   font-size: 18px;
 
   @include mobile {

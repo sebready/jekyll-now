@@ -18,10 +18,8 @@ html {
 }
 
 body {
-	background: url(https://www.google.co.uk/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0ahUKEwiYg7OB39nYAhWGWhQKHa_YDPIQjBwIBA&url=http%3A%2F%2Filiketowastemytime.com%2Fsystem%2Ffiles%2Fhd-wallpaper-winter-mountains-scene.jpg%3Fdownload%3D1&psig=AOvVaw0MaW7H0qR1cjtupRYOKIr5&ust=1516097842863682);
-  	repeat: no-repeat;
-	background-size: 100% 100%;
-	font: 18px/1.4 $helvetica;
+	background: $white;
+  font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 

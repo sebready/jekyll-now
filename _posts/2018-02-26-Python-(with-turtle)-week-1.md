@@ -1,12 +1,12 @@
 ---
-title: Python (with turtle) week 1
+title: Python With Turtle Week 1
 layout: post
 author: seb.read
 permalink: /python-(with-turtle)-week-1/
 source-id: 1nSDUUsJ4ojB4xCaKpL7_GeGc5Qp4rfSgj3E8W8pYJLI
 published: true
 ---
-Python (with turtle) week 1
+Python With Turtle Week 1
 
 This week at the start of the lesson we started a new topic of coding called python (with turtle)
 
